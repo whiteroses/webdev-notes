@@ -1,6 +1,6 @@
-= Notes on web development =
+# Notes on web development
 
-== To-do ==
+## To-do
 
 * definition of origin and same-origin policy?
 * `<base>` element?
@@ -14,6 +14,6 @@
 * implications of iframe's allowfullscreen attribute?
 
 
-== HTML ==
+## HTML
 
-* [[iframe]]
+* [iframe](iframe.md)
