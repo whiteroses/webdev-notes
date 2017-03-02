@@ -18,3 +18,8 @@
 
 * Use a `for` attribute on the `<label>` element linked to the `id` attribute
   of the form element, or use WAI-ARIA attributes.
+
+
+## WAI-ARIA
+
+[WAI-ARIA](wai_aria.md)
