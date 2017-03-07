@@ -9,4 +9,5 @@ with disabilities.
 ## Links
 
 * [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices/)
+* [ARIA in HTML](https://www.w3.org/TR/html-aria/)
 * https://www.w3.org/WAI/intro/aria
