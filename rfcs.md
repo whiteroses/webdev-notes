@@ -11,4 +11,4 @@ RFCs 7230-7237.
 
 # CGI
 
-[The Common Gateway Interface (CGI) Version 1.1](https://tools.ietf.org/html/rfc3875)
+[3875: The Common Gateway Interface (CGI) Version 1.1](https://tools.ietf.org/html/rfc3875)
